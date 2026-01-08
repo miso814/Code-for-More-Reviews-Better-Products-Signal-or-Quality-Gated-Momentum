@@ -1,0 +1,2 @@
+# Code-for-More-Reviews-Better-Products-Signal-or-Quality-Gated-Momentum
+R code to build a product-year panel of Amazon All Beauty reviews (2013–2023), construct lagged attention and quality measures, estimate PPML fixed-effects models testing quality signal and quality-gated momentum, compute implied thresholds, and plot binned patterns, marginal effects with CIs, and lifecycle profiles by product age.
